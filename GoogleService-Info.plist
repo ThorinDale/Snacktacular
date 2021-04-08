@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>918924566314-kr6ecnq3khbrr6n5mfkngg9du2u4v66b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.918924566314-kr6ecnq3khbrr6n5mfkngg9du2u4v66b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCguobe1Q9dsMCFYw3YF2TQHAaxclOXz-o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>918924566314</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.zheng.Snacktacular</string>
+	<key>PROJECT_ID</key>
+	<string>snacktacular-8187e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>snacktacular-8187e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:918924566314:ios:43dfe3096633309eb70853</string>
+</dict>
+</plist>
